@@ -1,0 +1,16 @@
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.exe
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.deps.json
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.runtimeconfig.json
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.runtimeconfig.dev.json
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.dll
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\ref\Cadastro.Filmes.dll
+C:\Meu Código\.NET\Cadastro.Filmes\bin\Debug\net5.0\Cadastro.Filmes.pdb
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.csproj.AssemblyReference.cache
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.AssemblyInfoInputs.cache
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.AssemblyInfo.cs
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.csproj.CoreCompileInputs.cache
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.dll
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\ref\Cadastro.Filmes.dll
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.pdb
+C:\Meu Código\.NET\Cadastro.Filmes\obj\Debug\net5.0\Cadastro.Filmes.genruntimeconfig.cache
